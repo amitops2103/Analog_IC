@@ -23,3 +23,5 @@
  - Emphasis on interfacing circuits and power transfer principle.
 
 ### SOURCES & REFFERENCES
+1. MEMS mic [Datasheet]https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf
+2. OP-AMP-344 [Datasheet]https://www.ti.com/lit/ds/symlink/opa344.pdf?ts=1747822666491&ref_url=https%253A%252F%252Fwww.google.com%252F 
