@@ -31,4 +31,15 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Day
+### Day-1 
+**Calculating Thevenin Equivalent of Microphone**
+
+Key specs from the microphone datasheet and research:
+ - Sensitivty: -44 dBV/Pa
+ - Condition: 94 dB SPL at 1 kHz which is sound pressure of 1 Pa
+ - Normal voice conversation is typically 60 dB SPL
+ - **Vth Calculation**
+    - Voice (Pa) = 10^(60−94)/20 = 19.9 × 10 − 3Pa
+    - Output (Vpk) = 2 × Vrms = 2 × 19.9 × 10 − 3Pa × 10 − 44/20 = 178μVpk
+    - V(out−pk) = 0.178mV
+ - Rth (from datasheet) = 380 ohms
