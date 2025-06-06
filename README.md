@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------
 
 ## Summer Internship course 2025
-----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 ### COURSE OUTCOME
 - Design of Analog ICs in the context of electronic system design
 - Deriving IC specifications from the host electronic system.
