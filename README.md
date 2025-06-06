@@ -46,8 +46,8 @@ Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/
   
 **Thevenin equivalent circuit :**
 
-![image](https://github.com/silicon-vlsi/SI-2025-AnalogIC/blob/main/content/figures/Fig-d1-1-USBmic.png)
-![image](https://github.com/user-attachments/assets/0caa348b-773f-40ad-afa9-49c46f75d765)
+<img src="https://github.com/silicon-vlsi/SI-2025-AnalogIC/blob/main/content/figures/Fig-d1-1-USBmic.png" width="800"/>
+<img src="https://github.com/user-attachments/assets/0caa348b-773f-40ad-afa9-49c46f75d765" width="700"/>
 
 **Transfer Circuit:**
 
