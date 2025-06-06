@@ -48,6 +48,7 @@ Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/
 ![image](https://github.com/user-attachments/assets/0caa348b-773f-40ad-afa9-49c46f75d765)
 
 **Transfer Circuit:**
+
 $$
 H(s) = \frac{v_{\text{out}}(s)}{v_{\text{in}}(s)} = -\left( \frac{s / R_i}{s + \frac{1}{R_i C_i}} \right)\left( \frac{1 / C_f}{s + \frac{1}{R_f C_f}} \right)
 $$
