@@ -34,8 +34,8 @@
 ### Day-1 
 **Calculating Thevenin Equivalent of Microphone**
 
-Key specs from the microphone datasheet and research:
-  Sensitivty: -44 dBV/Pa
+Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) and research:
+- Sensitivty: -44 dBV/Pa
 - Condition: 94 dB SPL at 1 kHz which is sound pressure of 1 Pa
 - Normal voice conversation is typically 60 dB SPL
 - **Vth Calculation**
