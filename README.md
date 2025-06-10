@@ -57,5 +57,13 @@ $$
 
 
 $$
-H(s) = \\frac{v_{out}}{v_{in}}(s) = - \\left( \\underbrace{\\frac{\\frac{s}{R_i}}{s + \\frac{1}{R_i C_i}}}_{\\textcolor{blue}{\\text{HPF}}} \\cdot \\underbrace{\\frac{\\frac{1}{C_f}}{s + \\frac{1}{R_f C_f}}}_{\\textcolor{blue}{\\text{LPF}}} \\right)
+H(s) = - \left( \frac{\frac{s}{R_i}}{s + \frac{1}{R_i C_i}} \cdot \frac{\frac{1}{C_f}}{s + \frac{1}{R_f C_f}} \right)
 $$
+
+From Sparkfun schematic:
+- Rin=5k, Rfb=300k, therefore Gain = 60
+- So output of the amplfier will be 60x0.178 mVpk = **10.68 mVpk**
+- Sparkfun site states **100 mVpk** probaby assuming 10 times higher input signal i.e. Voice is **80 dB SPL**
+- Input high-pass frequency = $1/2\pi RC = 1/2\pi 5k 4.7uF = 6.77 Hz$
+- Feedback Low-pass filter frequency = $1/2\pi RC = 1/2\pi 300k 27pF = 19.6kHz $
+- Input common-mode filter = $1/2\pi 10k 1uF = 15.9 Hz$
