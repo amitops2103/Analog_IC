@@ -54,6 +54,8 @@ Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/
 $$
 H(s) = \frac{v_{\text{out}}(s)}{v_{\text{in}}(s)} = -\left( \frac{s / R_i}{s + \frac{1}{R_i C_i}} \right)\left( \frac{1 / C_f}{s + \frac{1}{R_f C_f}} \right)
 $$
+
+
 $$
 H(s) = \\frac{v_{out}}{v_{in}}(s) = - \\left( \\underbrace{\\frac{\\frac{s}{R_i}}{s + \\frac{1}{R_i C_i}}}_{\\textcolor{blue}{\\text{HPF}}} \\cdot \\underbrace{\\frac{\\frac{1}{C_f}}{s + \\frac{1}{R_f C_f}}}_{\\textcolor{blue}{\\text{LPF}}} \\right)
 $$
