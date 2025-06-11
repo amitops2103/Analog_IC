@@ -79,3 +79,25 @@ $$
 <img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="700"/>
 
 <img src="https://github.com/user-attachments/assets/66469137-0ab0-4c39-a2ba-22b24846d34e" width="700"/>
+
+- **AC simulation**
+   - plot output voltage (in dB) and phase (in deg)
+     
+<img src="https://github.com/user-attachments/assets/f5ab4345-8f30-4059-b19d-6ea2a25ce952" width="700"/>
+
+<img src="https://github.com/user-attachments/assets/56d07144-0d23-463d-a03a-f340b30cd400" width="700"/>
+
+
+   - measure the maximum gain and the frequency at the gain.
+   - measure the -3 dB frequency and verify with your calaculation.
+
+    MAX-------------------- 34.91dB
+    3db-------------------- 31.91dB
+    f_pole----------------- 20.7Hz
+    f_zero----------------- 6.30Hz
+    f_mid------------------ 96.7Hz
+    ph_pole---------------- -135`
+    ph_zero---------------- -224.9`
+    ph_mid----------------- -176.5`
+
+<img src="https://github.com/user-attachments/assets/4485eea6-116b-4b48-a879-485720bc58d7" width="700"/>
