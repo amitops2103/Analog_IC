@@ -39,7 +39,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Day: 1-5 
-**Calculating Thevenin Equivalent of Microphone**
+***Calculating Thevenin Equivalent of Microphone***
 
 Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) and research:
 - Sensitivty: -44 dBV/Pa
@@ -74,18 +74,18 @@ $$
 - Input common-mode filter = $1/2\pi 10k 1uF = 15.9 Hz$
 
 
-***Modeling of OP-AMP using VCVS
+***Modeling of OP-AMP using VCVS***
 
 <img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="700"/>
 
-<img src="https://github.com/user-attachments/assets/66469137-0ab0-4c39-a2ba-22b24846d34e" width="700"/>
+<img src="https://github.com/user-attachments/assets/279f9559-ab76-4af9-a656-46ae5223f954" width="750"/>
 
 - **AC simulation**
    - plot output voltage (in dB) and phase (in deg)
      
-<img src="https://github.com/user-attachments/assets/f5ab4345-8f30-4059-b19d-6ea2a25ce952" width="800"/>
+<img src="https://github.com/user-attachments/assets/dbf01d2b-0150-4c61-ac4c-7964d2e6516d" width="800"/>
 
-<img src="https://github.com/user-attachments/assets/56d07144-0d23-463d-a03a-f340b30cd400" width="800"/>
+<img src="https://github.com/user-attachments/assets/5eaacbd6-08e4-424c-b044-52926607f383" width="800"/>
 
 
    - measure the maximum gain and the frequency at the gain.
@@ -100,4 +100,4 @@ $$
     ph_zero---------------- -224.9`
     ph_mid----------------- -176.5`
 
-<img src="https://github.com/user-attachments/assets/4485eea6-116b-4b48-a879-485720bc58d7" width="700"/>
+<img src="https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3" width="700"/>
