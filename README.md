@@ -38,7 +38,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Day-1 
+### Day: 1-5 
 **Calculating Thevenin Equivalent of Microphone**
 
 Key specs from the microphone [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf) and research:
@@ -65,10 +65,17 @@ $$
 H(s) = - \left( \frac{\frac{s}{R_i}}{s + \frac{1}{R_i C_i}} \cdot \frac{\frac{1}{C_f}}{s + \frac{1}{R_f C_f}} \right)
 $$
 
-From Sparkfun schematic:
+**From Sparkfun schematic:**
 - Rin=5k, Rfb=300k, therefore Gain = 60
 - So output of the amplfier will be 60x0.178 mVpk = **10.68 mVpk**
 - Sparkfun site states **100 mVpk** probaby assuming 10 times higher input signal i.e. Voice is **80 dB SPL**
 - Input high-pass frequency = $1/2\pi RC = 1/2\pi 5k 4.7uF = 6.77 Hz$
 - Feedback Low-pass filter frequency = $1/2\pi RC = 1/2\pi 300k 27pF = 19.6kHz $
 - Input common-mode filter = $1/2\pi 10k 1uF = 15.9 Hz$
+
+
+***Modeling of OP-AMP using VCVS
+
+<img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="600"/>
+
+<img src="https://github.com/user-attachments/assets/66469137-0ab0-4c39-a2ba-22b24846d34e" width="600"/>
