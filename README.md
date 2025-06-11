@@ -76,6 +76,6 @@ $$
 
 ***Modeling of OP-AMP using VCVS
 
-<img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="600"/>
+<img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="700"/>
 
-<img src="https://github.com/user-attachments/assets/66469137-0ab0-4c39-a2ba-22b24846d34e" width="600"/>
+<img src="https://github.com/user-attachments/assets/66469137-0ab0-4c39-a2ba-22b24846d34e" width="700"/>
