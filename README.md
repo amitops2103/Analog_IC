@@ -81,6 +81,7 @@ $$
 <img src="https://github.com/user-attachments/assets/279f9559-ab76-4af9-a656-46ae5223f954" width="750"/>
 
 - **AC simulation**
+- **for a gain of 10000**
    - plot output voltage (in dB) and phase (in deg)
      
 <img src="https://github.com/user-attachments/assets/dbf01d2b-0150-4c61-ac4c-7964d2e6516d" width="800"/>
@@ -91,13 +92,13 @@ $$
    - measure the maximum gain and the frequency at the gain.
    - measure the -3 dB frequency and verify with your calaculation.
 
-    MAX-------------------- 34.91dB
-    3db-------------------- 31.91dB
-    f_pole----------------- 20.7Hz
-    f_zero----------------- 6.30Hz
-    f_mid------------------ 96.7Hz
+    MAX-------------------- 35.37dB
+    3db-------------------- 32.37dB
+    f_pole----------------- 19.73Hz
+    f_zero----------------- 6.63Hz
+    f_mid------------------ 19.5Hz
     ph_pole---------------- -135`
     ph_zero---------------- -224.9`
-    ph_mid----------------- -176.5`
+    ph_mid----------------- -161.3`
 
 <img src="https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3" width="700"/>
