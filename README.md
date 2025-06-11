@@ -83,9 +83,9 @@ $$
 - **AC simulation**
    - plot output voltage (in dB) and phase (in deg)
      
-<img src="https://github.com/user-attachments/assets/f5ab4345-8f30-4059-b19d-6ea2a25ce952" width="700"/>
+<img src="https://github.com/user-attachments/assets/f5ab4345-8f30-4059-b19d-6ea2a25ce952" width="800"/>
 
-<img src="https://github.com/user-attachments/assets/56d07144-0d23-463d-a03a-f340b30cd400" width="700"/>
+<img src="https://github.com/user-attachments/assets/56d07144-0d23-463d-a03a-f340b30cd400" width="800"/>
 
 
    - measure the maximum gain and the frequency at the gain.
