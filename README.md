@@ -21,6 +21,7 @@
  - Principle of linearity and superposition
  - Network analysis: KCL, KVL, node theorems, Thevenin, Norton
  - Emphasis on interfacing circuits and power transfer principle.
+
 ***3. Basics of MOS device physics***
  - Introduction to pn junctions.
  - MOS as capacitor.
