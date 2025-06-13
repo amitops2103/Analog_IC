@@ -74,7 +74,7 @@ $$
 - Input common-mode filter = $1/2\pi 10k 1uF = 15.9 Hz$
 
 
-***Modeling of OP-AMP using VCVS***
+#### ***Modeling of OP-AMP using VCVS***
 
 <img src="https://github.com/user-attachments/assets/48b9ead1-8dc1-45e0-ae24-ba838738e79a" width="700"/>
 
@@ -102,3 +102,9 @@ $$
     ph_mid----------------- -161.3`
 
 <img src="https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3" width="700"/>
+
+#### ***Single-Pole model of OP-AMP***
+
+<img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="700"/>
+
+
