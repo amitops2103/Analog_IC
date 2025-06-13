@@ -105,6 +105,10 @@ $$
 
 #### ***Single-Pole model of OP-AMP***
 
-<img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="700"/>
+<img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="900"/>
 
+![image](https://github.com/user-attachments/assets/f45ecc2b-c24f-4f6b-a60e-6524ddf9bd95)
 
+![image](https://github.com/user-attachments/assets/318f4244-fe1e-4242-abdc-b4f52f8bbbc9)
+
+![image](https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285)
