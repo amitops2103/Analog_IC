@@ -107,7 +107,7 @@ $$
 
 <img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="900"/>
 
-![image](https://github.com/user-attachments/assets/f45ecc2b-c24f-4f6b-a60e-6524ddf9bd95)
+![image](https://github.com/user-attachments/assets/5a79d433-1df2-4d18-aaf7-cce058fc45b1)
 
 ![image](https://github.com/user-attachments/assets/318f4244-fe1e-4242-abdc-b4f52f8bbbc9)
 
