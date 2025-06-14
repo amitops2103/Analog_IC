@@ -105,10 +105,15 @@ $$
 
 #### ***Single-Pole model of OP-AMP***
 
-<img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="900"/>
+<img src="https://github.com/user-attachments/assets/62e0f812-bd4e-4e0c-af81-68819033291e" width="1000"/>
 
-![image](https://github.com/user-attachments/assets/5a79d433-1df2-4d18-aaf7-cce058fc45b1)
+<img src="https://github.com/user-attachments/assets/5a79d433-1df2-4d18-aaf7-cce058fc45b1" width="700"/>
 
-![image](https://github.com/user-attachments/assets/318f4244-fe1e-4242-abdc-b4f52f8bbbc9)
-
-![image](https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285)
+<img src="https://github.com/user-attachments/assets/318f4244-fe1e-4242-abdc-b4f52f8bbbc9" width="700"/>
+     
+    MAX-------------------- 34.91dB
+    3db-------------------- 31.91dB
+    f_pole----------------- 20.76kHz
+    f_zero----------------- 6.3Hz
+    f_60------------------ 151.42MHz
+<img src="https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285" width="800"/>
