@@ -142,6 +142,9 @@ f_zero----------------- 1.48Hz
 ```
 ![image](https://github.com/user-attachments/assets/f6c40115-8ad8-4fd8-892e-e0cfc5f23281)
 
+Transient simulation
+
+![image](https://github.com/user-attachments/assets/b8b5a3e4-c094-45a0-802f-be16f8ce4367)
 
 
 
