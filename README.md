@@ -117,3 +117,13 @@ $$
     f_zero----------------- 6.3Hz
     f_60------------------ 151.42MHz
 <img src="https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285" width="800"/>
+
+
+#### ***Modeling of OP-AMP using common source amplifier***
+
+![image](https://github.com/user-attachments/assets/80758ac9-8841-4aca-a29f-2d535de27e99)
+
+creating symbol for the OP-AMP
+
+![image](https://github.com/user-attachments/assets/65bb60ce-42eb-4106-b2b0-cdbe5e9cc806)
+
