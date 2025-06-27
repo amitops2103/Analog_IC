@@ -127,3 +127,20 @@ creating symbol for the OP-AMP
 
 ![image](https://github.com/user-attachments/assets/65bb60ce-42eb-4106-b2b0-cdbe5e9cc806)
 
+simulating with mic_test circuit
+
+![image](https://github.com/user-attachments/assets/4d2c897e-e341-4eab-a2cc-2fd607ad080f)
+
+![image](https://github.com/user-attachments/assets/33f70c2b-d742-4e7f-9265-e0826d818cf0)
+
+```
+MAX-------------------- 34.91dB
+3db-------------------- 31.91dB
+f_pole----------------- 20.76kHz
+f_zero----------------- 6.3Hz
+```
+![image](https://github.com/user-attachments/assets/f6c40115-8ad8-4fd8-892e-e0cfc5f23281)
+
+
+
+
