@@ -88,19 +88,18 @@ $$
 
 <img src="https://github.com/user-attachments/assets/5eaacbd6-08e4-424c-b044-52926607f383" width="800"/>
 
-
    - measure the maximum gain and the frequency at the gain.
    - measure the -3 dB frequency and verify with your calaculation.
-
-    MAX-------------------- 35.37dB
-    3db-------------------- 32.37dB
-    f_pole----------------- 19.73kHz
-    f_zero----------------- 6.63Hz
-    f_mid------------------ 19.5Hz
-    ph_pole---------------- -135`
-    ph_zero---------------- -224.9`
-    ph_mid----------------- -161.3`
-
+```
+MAX-------------------- 35.37dB
+3db-------------------- 32.37dB
+f_pole----------------- 19.73kHz
+f_zero----------------- 6.63Hz
+f_mid------------------ 19.5Hz
+ph_pole---------------- -135`
+ph_zero---------------- -224.9`
+ph_mid----------------- -161.3`
+```
 <img src="https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3" width="700"/>
 
 #### ***Single-Pole model of OP-AMP***
@@ -110,12 +109,14 @@ $$
 <img src="https://github.com/user-attachments/assets/5a79d433-1df2-4d18-aaf7-cce058fc45b1" width="700"/>
 
 <img src="https://github.com/user-attachments/assets/318f4244-fe1e-4242-abdc-b4f52f8bbbc9" width="700"/>
-     
-    MAX-------------------- 34.91dB
-    3db-------------------- 31.91dB
-    f_pole----------------- 20.76kHz
-    f_zero----------------- 6.3Hz
-    f_60------------------ 151.42MHz
+
+ ```
+MAX-------------------- 34.91dB
+3db-------------------- 31.91dB
+f_pole----------------- 20.76kHz
+f_zero----------------- 6.3Hz
+f_60------------------ 151.42MHz
+```
 <img src="https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285" width="800"/>
 
 
@@ -134,10 +135,10 @@ simulating with mic_test circuit
 ![image](https://github.com/user-attachments/assets/33f70c2b-d742-4e7f-9265-e0826d818cf0)
 
 ```
-MAX-------------------- 34.91dB
-3db-------------------- 31.91dB
-f_pole----------------- 20.76kHz
-f_zero----------------- 6.3Hz
+MAX-------------------- 21.83dB
+3db-------------------- 18.83dB
+f_pole----------------- 29.60kHz
+f_zero----------------- 1.48Hz
 ```
 ![image](https://github.com/user-attachments/assets/f6c40115-8ad8-4fd8-892e-e0cfc5f23281)
 
