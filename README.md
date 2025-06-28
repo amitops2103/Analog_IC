@@ -29,6 +29,17 @@
  - IV characteristics.
  - Parasitic capacitance.
 
+***4. Basics of analog building blocks***
+ - Current mirror design: simple, cascode and wide-swing mirrors
+ -  Basic understanding of differential amplifiers.
+ - Introduction to AC analysis: stability analysis of a 2-stage amplifier.
+ - Design of a folded cascode amplifier using CMOS 130nm.
+***5. Implementation of the design***
+ - All the designs will be done using Skywater 130nm CMOS technology.
+ - Schematic capture using open-source _xschem_.
+ - Simulation will be done using _ngspice_.
+ - Layout and final verification will be done using _magic_ and _netgen_.
+
 ### SOURCES & REFFERENCES
 1. MEMS mic [Datasheet](https://cdn.sparkfun.com/assets/0/5/8/b/1/SPH8878LR5H-1_Lovato_DS.pdf)
 2. OP-AMP-344 [Datasheet](https://www.ti.com/lit/ds/symlink/opa344.pdf?ts=1747822666491&ref_url=https%253A%252F%252Fwww.google.com%252F)
