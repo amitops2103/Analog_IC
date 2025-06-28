@@ -164,6 +164,9 @@ THD(Total Harmonic Distortion) = 28.52%
 
 ![image](https://github.com/user-attachments/assets/d4310898-a792-4a4a-85e1-f0abdfcc3c24)
 
-
+***REVIEW :***
+- From the OPA-344 datasheet the gain is 120dB and the THD is 0.06%.
+1. For the common source differential amplifier which I have designed the gain is comming to be around 21dB which is very low.
+2. The THD is 28.52%
 
 
