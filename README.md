@@ -117,7 +117,7 @@ f_pole----------------- 20.76kHz
 f_zero----------------- 6.3Hz
 f_60------------------ 151.42MHz
 ```
-<img src="https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285" width="800"/>
+![image](https://github.com/user-attachments/assets/2dac6ff5-ca4e-4c68-9fe9-95caf9dc1285)
 
 
 #### ***Modeling of OP-AMP using common source amplifier***
