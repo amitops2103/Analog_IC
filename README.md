@@ -34,6 +34,7 @@
  -  Basic understanding of differential amplifiers.
  - Introduction to AC analysis: stability analysis of a 2-stage amplifier.
  - Design of a folded cascode amplifier using CMOS 130nm.
+
 ***5. Implementation of the design***
  - All the designs will be done using Skywater 130nm CMOS technology.
  - Schematic capture using open-source _xschem_.
