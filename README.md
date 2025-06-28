@@ -144,7 +144,14 @@ f_zero----------------- 1.48Hz
 
 Transient simulation
 
-![image](https://github.com/user-attachments/assets/b8b5a3e4-c094-45a0-802f-be16f8ce4367)
+![image](https://github.com/user-attachments/assets/5845f64a-ea38-4d3b-a547-4e6476405403)
+
+```
+THD(Total Harmonic Distortion) = 28.52%
+```
+
+![image](https://github.com/user-attachments/assets/d4310898-a792-4a4a-85e1-f0abdfcc3c24)
+
 
 
 
