@@ -134,6 +134,16 @@ f_60------------------ 151.42MHz
 
 #### ***Modeling of OP-AMP using common source amplifier***
 
+for the transistor sizing
+| Parameter    | Increased by        | Trade-offs       |
+| ------------ | ------------------- | ---------------- |
+| Gain         | ↑ W, ↑ L            | Area, power      |
+| Bandwidth    | ↓ L, ↑ bias current | Noise, power     |
+| Output swing | ↑ L                 | Reduced speed    |
+| Slew Rate    | ↑ W                 | More area, power |
+| Noise        | ↑ W                 | Larger area      |
+
+
 ![image](https://github.com/user-attachments/assets/80758ac9-8841-4aca-a29f-2d535de27e99)
 
 creating symbol for the OP-AMP
