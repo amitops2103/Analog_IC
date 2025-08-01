@@ -112,7 +112,7 @@ ph_pole---------------- -135`
 ph_zero---------------- -224.9`
 ph_mid----------------- -161.3`
 ```
-[image](https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3)
+![image](https://github.com/user-attachments/assets/952c3c2d-812a-49ce-a457-4e1167524ae3)
 
 #### ***Single-Pole model of OP-AMP***
 
