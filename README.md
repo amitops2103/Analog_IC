@@ -183,3 +183,4 @@ THD(Total Harmonic Distortion) = 28.52%
 
 The amplifier gain is very low so going for the telescopic amplifier.
 
+<img width="823" height="582" alt="image" src="https://github.com/user-attachments/assets/d6f5edd4-655b-475d-9250-5fc3fe47c95d" />
