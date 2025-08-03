@@ -187,4 +187,5 @@ Telescopic Amplifer with biasing circuit
 <img width="823" height="582" alt="image" src="https://github.com/user-attachments/assets/d6f5edd4-655b-475d-9250-5fc3fe47c95d" />
 
 Created symbol for the amplifier test
+
 <img width="510" height="361" alt="image" src="https://github.com/user-attachments/assets/221dfc59-374b-442e-b497-d8d674a77fe8" />
